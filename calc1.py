@@ -1,2 +1,2 @@
 def main():
-	print("We are sybteam A")
+	print("We are one team!")
